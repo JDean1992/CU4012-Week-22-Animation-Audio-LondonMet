@@ -18,7 +18,7 @@ Menu::Menu(sf::RenderWindow* hwnd, Input* in, GameState* game)
 
 	Title.setFont(titleFont);
 	Title.setFillColor(sf::Color::Magenta);
-	Title.setString("My Game");
+	Title.setString("Rave Digger");
 	Title.setOutlineColor(sf::Color::Black);
 	Title.setCharacterSize(70);
 	Title.setPosition(500, 50);
